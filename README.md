@@ -1,6 +1,6 @@
 # Hi-SECURE-POEM-2024
 ## Overview
-This script is designed for generating the main figures of the POEM project article. It includes Jupyter notebooks for plotting figures using Python and RMD files for plotting figures using R.
+This is for generating the main figures of the POEM project article. It includes Jupyter notebooks for plotting figures using Python and RMD files for plotting figures using R.
 ---
 
 ## Environment Setup and Installation
