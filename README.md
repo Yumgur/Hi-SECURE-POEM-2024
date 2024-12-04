@@ -45,7 +45,7 @@ This script is designed for generating the main figures of the POEM project arti
 
 ### 1. **`Survival_plot.Rmd`**
 - **Type:** R Markdown file.
-- **Recommended Environment:RStudio
+- **Recommended Environment**:RStudio
 - **Average Run Time:** **Approximately 3 minute**.
 
 ### 2. **`Hi-secure_plot.ipynb`**
